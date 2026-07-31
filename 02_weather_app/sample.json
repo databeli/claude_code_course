@@ -1,0 +1,25 @@
+{
+  "name": "John Doe",
+  "age": 30,
+  "email": "john.doe@example.com",
+  "address": {
+    "street": "123 Main St",
+    "city": "Springfield",
+    "zip": "12345"
+  },
+  "phones": [
+    "555-1234",
+    "555-5678"
+  ],
+  "active": true,
+  "tags": [
+    "admin",
+    "user",
+    null
+  ],
+  "scores": [
+    10,
+    20,
+    30.5
+  ]
+}
