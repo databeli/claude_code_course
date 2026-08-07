@@ -1,0 +1,43 @@
+Job Description: Senior Data Engineer
+
+Company: Beacon Systems (fictional, for demo purposes)
+Location: Remote (INDIA)
+Employment Type: Full-time
+
+About the Role
+
+We're looking for a Senior Data Engineer to design and scale our data platform, supporting both analytics and machine learning workloads. You'll own pipelines from ingestion through orchestration, and partner closely with ML engineers building retrieval-augmented generation (RAG) applications on top of our data.
+
+Responsibilities
+
+Design, build, and maintain scalable batch and streaming data pipelines (Kafka, Kinesis, or similar).
+Own orchestration using Airflow or a comparable tool, including monitoring, alerting, and SLA management.
+Build and optimize data models in our cloud data warehouse (BigQuery or Snowflake).
+Support ML pipelines by managing feature stores and vector database infrastructure (e.g., Pinecone, Weaviate, or pgvector) for RAG use cases.
+Implement CI/CD for data pipeline deployments using GitHub Actions or similar.
+Containerize services with Docker and deploy to Kubernetes.
+Collaborate with data scientists and ML engineers on MLflow-based experiment tracking and model deployment workflows.
+Champion data quality practices and observability across the pipeline lifecycle.
+
+Required Qualifications
+
+4+ years of experience in data engineering or a related role.
+Strong proficiency in Python and SQL.
+Hands-on experience with Apache Spark and distributed data processing.
+Experience with at least one major cloud platform (AWS, GCP, or Azure).
+Experience with workflow orchestration tools (Airflow preferred).
+Solid understanding of data warehousing concepts and dimensional modeling.
+
+Preferred Qualifications
+
+Experience with streaming systems (Kafka, Kinesis, or Pub/Sub).
+Familiarity with vector databases and RAG pipeline architecture.
+Experience with MLflow or similar ML lifecycle tools.
+Kubernetes and infrastructure-as-code (Terraform) experience.
+Cloud certification (AWS/GCP/Azure data or ML specialty).
+
+What We Offer
+
+Competitive salary and equity
+Remote-first culture
+Learning budget for conferences and certifications
